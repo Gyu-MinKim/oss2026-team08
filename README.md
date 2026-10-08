@@ -3,3 +3,5 @@
 ## 팀원
 
 | GitHub | 맡은 일 |
+|---|---|
+| @Gyu-MinKim | Backend |
