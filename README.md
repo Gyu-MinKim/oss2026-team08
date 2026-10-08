@@ -4,4 +4,5 @@
 
 | GitHub | 맡은 일 |
 |---|---|
+| @Gyu-MinKim | Backend |
 | @jinyoung-yoo | 코드 수정 |
