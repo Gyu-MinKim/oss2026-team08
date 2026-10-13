@@ -6,7 +6,7 @@
 |---|---|
 | @Gyu-MinKim | Backend |
 | @jinyoung-yoo | 코드 수정 |
-| @jongminna1 | (C가 정함) |
+| @jongminna1 | DB Backend |
 
 ## 규칙
 
